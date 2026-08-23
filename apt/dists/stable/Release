@@ -1,0 +1,20 @@
+Origin: bakufu
+Label: bakufu
+Suite: stable
+Codename: stable
+Date: Sun, 23 Aug 2026 08:38:55 UTC
+Architectures: amd64
+Components: main
+Description: bakufu stable packages
+MD5Sum:
+ 7dc125efaf155c2cd3f3320e02ef3f24 439 main/binary-amd64/Packages
+ 5d59e0b1f39f7d2f21fe9e24901f8813 364 main/binary-amd64/Packages.gz
+ d0b5eb1ceb854a957586daf54bda2991 117 main/binary-amd64/Release
+SHA1:
+ cdf04013a1c9ab1a52bd25d770226f8e92665bcc 439 main/binary-amd64/Packages
+ 86898d66e1374e82a089e28a56730fe62c8dabbb 364 main/binary-amd64/Packages.gz
+ 05a595e9224aefefd402067a19d91e3a9b5f1aa8 117 main/binary-amd64/Release
+SHA256:
+ c17d4bd6248b867008b8bfd225260365ee139345d7dd38679d6a6886d5ea00c2 439 main/binary-amd64/Packages
+ 167660ae27c594e7fc154f113b864daf1d36c60728b8b2e27ccd19e8f2fb6daf 364 main/binary-amd64/Packages.gz
+ cca4c0a8bbca51f6df0f1ea74865e74881c404da61faacb63f6279175825abf0 117 main/binary-amd64/Release

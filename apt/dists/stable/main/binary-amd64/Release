@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: bakufu
+Label: bakufu
+Architecture: amd64
+Description: bakufu stable packages
