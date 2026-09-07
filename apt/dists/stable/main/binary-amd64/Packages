@@ -1,16 +1,16 @@
 Package: bakufu
-Version: 0.2.0
+Version: 0.3.0
 Architecture: amd64
-Installed-Size: 35054
+Installed-Size: 32335
 Maintainer: bakufu
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
 Priority: optional
 Section: utils
-Filename: pool/main/b/bakufu/bakufu_0.2.0_amd64.deb
-Size: 12731362
-SHA256: 99bada2c05bb6ac421b923a54602a5717f429bd56ef9504213949d828ff6b48d
-SHA1: 2909529f2536c0913fc995d57ea62034856111d5
-MD5sum: 7ff005fdb79b9e87337be7591c64eb99
+Filename: pool/main/b/bakufu/bakufu_0.3.0_amd64.deb
+Size: 11573686
+SHA256: 05d5219ceb2c9909033d05992fb43d3618025abde89a96f0caca6df6ce632796
+SHA1: 031d09945c48743f0ac01c28a3366952c309bfe1
+MD5sum: 1394bce7cb29f2d49c32e151f97bcfe3
 Description: 今日の作業記録
  (none)
 
