@@ -2,19 +2,19 @@ Origin: bakufu
 Label: bakufu
 Suite: stable
 Codename: stable
-Date: Mon, 07 Sep 2026 05:05:01 UTC
+Date: Thu, 10 Sep 2026 06:14:40 UTC
 Architectures: amd64
 Components: main
 Description: bakufu stable packages
 MD5Sum:
- eecae940ab4daa93f1b9f68ce1e58de7 439 main/binary-amd64/Packages
- 17f4d5fdd3a123f138cc40c164a2f62e 365 main/binary-amd64/Packages.gz
+ 82d59b7c231a61e6e6e0caceb00584a4 439 main/binary-amd64/Packages
+ efd33a3319e350b045ffa024f01ec29b 361 main/binary-amd64/Packages.gz
  d0b5eb1ceb854a957586daf54bda2991 117 main/binary-amd64/Release
 SHA1:
- c7ecf65fde434da004177c44764f516bfdad642c 439 main/binary-amd64/Packages
- 11ffc5af9492f7090915c575848c2251bd629863 365 main/binary-amd64/Packages.gz
+ 0fd2856a9fef8512cb2b80860b8b8aa3e6eb3fe0 439 main/binary-amd64/Packages
+ b81ebe075b92b15eb55a4d472d84e95c71b65aef 361 main/binary-amd64/Packages.gz
  05a595e9224aefefd402067a19d91e3a9b5f1aa8 117 main/binary-amd64/Release
 SHA256:
- dc7bc2fba7933b233ebaee9a4af5dd74ec596963be9f23e0bac3f1068d0a917a 439 main/binary-amd64/Packages
- 03f20a7753b54d768c248601a11db64ead3e0cda4c00322c643ac332dee5867f 365 main/binary-amd64/Packages.gz
+ e0be23a5b768b29e839df77abb8eca91dc038389fc2c11f9074ab68445992e1e 439 main/binary-amd64/Packages
+ 5e2331ee8584faa623bfc67e21ddcc69d0aa0c6756a5ee08f5a75768da2e7063 361 main/binary-amd64/Packages.gz
  cca4c0a8bbca51f6df0f1ea74865e74881c404da61faacb63f6279175825abf0 117 main/binary-amd64/Release
