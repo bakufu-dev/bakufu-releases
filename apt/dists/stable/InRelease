@@ -5,33 +5,33 @@ Origin: bakufu
 Label: bakufu
 Suite: stable
 Codename: stable
-Date: Thu, 10 Sep 2026 06:14:40 UTC
+Date: Fri, 11 Sep 2026 08:22:01 UTC
 Architectures: amd64
 Components: main
 Description: bakufu stable packages
 MD5Sum:
- 82d59b7c231a61e6e6e0caceb00584a4 439 main/binary-amd64/Packages
- efd33a3319e350b045ffa024f01ec29b 361 main/binary-amd64/Packages.gz
+ b540ca657889f39e902bd06f1ee55996 439 main/binary-amd64/Packages
+ f4d29a53e800de752d00bb6ff93584a0 366 main/binary-amd64/Packages.gz
  d0b5eb1ceb854a957586daf54bda2991 117 main/binary-amd64/Release
 SHA1:
- 0fd2856a9fef8512cb2b80860b8b8aa3e6eb3fe0 439 main/binary-amd64/Packages
- b81ebe075b92b15eb55a4d472d84e95c71b65aef 361 main/binary-amd64/Packages.gz
+ 7ffc6e95ead1c57123400815eafdcfbf84787435 439 main/binary-amd64/Packages
+ 95f496813866ac913bd88c7be6434e6dc7d4f570 366 main/binary-amd64/Packages.gz
  05a595e9224aefefd402067a19d91e3a9b5f1aa8 117 main/binary-amd64/Release
 SHA256:
- e0be23a5b768b29e839df77abb8eca91dc038389fc2c11f9074ab68445992e1e 439 main/binary-amd64/Packages
- 5e2331ee8584faa623bfc67e21ddcc69d0aa0c6756a5ee08f5a75768da2e7063 361 main/binary-amd64/Packages.gz
+ a8fe8e4a43f5fe9dd29666b36bf231792311fb2822eaff2727e02c12837c143d 439 main/binary-amd64/Packages
+ 13504a526559ee7807b877793da75ce9d5b17714e964172e2f75d9278886a824 366 main/binary-amd64/Packages.gz
  cca4c0a8bbca51f6df0f1ea74865e74881c404da61faacb63f6279175825abf0 117 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEE+CoYwHJzYKcBCHFyQ//qsiaiZdoFAmqiStAACgkQQ//qsiai
-Zdp6Pwv+M48tA95ETuw4SL58qadTR9PhYEq1KPn5t0xxDwAR5m4MmoyPzZc+AC+f
-TVEeaxOVYJoPmTHEqiyShbgsSqccpkMAtEKxRgoJ7FpbqWRmpZhpF7Qt6HYQqLlG
-+QpcKhluUUWJlirc49pGpSojPJFUelac7zuyoh684Dw+nwfn38HyQgl29VbGKahY
-xTMgINyOWi4zjtHDRK0MI2OXCuhBHxkcTnwhc4fEEyJAMjMjh5lBg9X7w/mDbkfI
-KuLt16BAfx2+HHAMAYOxP3DiuYH0Z8Q8c8O0Kod1DeVQLDA0+Ja25g6nDBzChV3p
-2OjxVWdSTXoWiWXYiSiLLYgzk68XzocXtBKGoOKXnYMaYIDD2pCSzIJ0LsXT4VDj
-EPq8bH7he0OMxkVWP5jIdfL3qeCr0ot+DAh2f+hrh5weeSeKiO4Wag+NihoNOxAd
-6r/jmn8ylNQX8fVADbiAkYYETflWQ8oTEiHg3gnpnNXsOxCrH8g5p/cNHfwxperA
-8/UjBjHn
-=/X51
+iQGzBAEBCgAdFiEE+CoYwHJzYKcBCHFyQ//qsiaiZdoFAmqjuikACgkQQ//qsiai
+Zdqa/gv+NwJzF/4jBnwxF2ckr8uyL6D0DGeV9/yzTRVo08kbkT7qlQFH9pdFJTWo
+5swxYQtAcWadKcAvQJU1EeHXm4YYExZnVJpSHB/DzVvDApZvDUIPpVGm+bjCOwsQ
+oE1jG9dOVoMCdJbkeRBnmISPJgyKa4vp6a23pro+3g8vqPhMnoD6Dw9yjRDYfXh8
+ZhfM1u2j8vn8VUB3dy+VoETXMvq6fo//t1gc/bgMFwNpQRmXdEQzVhpYulX75HHi
+cUj9K+WUknuedZtfoHVeWeEWvfN5r1OIuYlXCNrbiSjOAZCgF2yqHZ4I0LwSRKwl
+MUXD+QZJo9KxCWBW3ZLiuv1vE/7TqkboRzlmLbldXJFTs7u/Ga31lZRGyfjKQgoZ
+EjoohKkEyxGD7DN1uEI8Qur+vL4/qtyYTTupfNhDXzj5bTpgXDpM/sSnlqidoKLi
+K19QvRIKuAZ2vhqR3cS2zoA3I87h58HyPx9UodzjYum9R46GX+dBM36TMMerOzz1
+f1djtA+C
+=/mME
 -----END PGP SIGNATURE-----
